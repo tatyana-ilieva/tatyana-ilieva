@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tatyana-ilieva
-- 👀 I’m interested in blockchain, full-stack, and cybersecurity
-- 🌱 I’m currently building on-chain programs and working with Rust, Javascript, React, and node.js
+- 👀 I’m interested in blockchain, full-stack development, and cybersecurity
+- 🌱 I’m currently building on-chain programs and working with Rust, Solidity, TypeScript, etc...
 - 💞️ I’m looking to collaborate on blockchain-related projects
 
 <!---
